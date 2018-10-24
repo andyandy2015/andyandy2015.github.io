@@ -1,0 +1,14 @@
+{
+"companyName": "Tuyu Tuyu Against Bullying",
+"productName": "Demo Version Tuyu Tuyu Against Bullying 2018",
+"dataUrl": "test 1023 all.data.unityweb",
+"asmCodeUrl": "test 1023 all.asm.code.unityweb",
+"asmMemoryUrl": "test 1023 all.asm.memory.unityweb",
+"asmFrameworkUrl": "test 1023 all.asm.framework.unityweb",
+"asmSymbolsUrl": "test 1023 all.asm.symbols.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#040404"
+}
